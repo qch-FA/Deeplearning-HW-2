@@ -1,0 +1,30 @@
+# YOLO dataset config for the Road Vehicle Images Dataset extracted from
+# archive.zip into datasets/road_vehicle_full/trafic_data.
+
+path: ../datasets/road_vehicle_full/trafic_data
+train: train/images
+val: valid/images
+test: valid/images
+
+names:
+  0: ambulance
+  1: army vehicle
+  2: auto rickshaw
+  3: bicycle
+  4: bus
+  5: car
+  6: garbagevan
+  7: human hauler
+  8: minibus
+  9: minivan
+  10: motorbike
+  11: pickup
+  12: policecar
+  13: rickshaw
+  14: scooter
+  15: suv
+  16: taxi
+  17: three wheelers -CNG-
+  18: truck
+  19: van
+  20: wheelbarrow
