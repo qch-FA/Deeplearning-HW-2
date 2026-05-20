@@ -4,7 +4,7 @@ This folder contains a YOLOv8-based implementation for task 2:
 
 - train a road-vehicle detector on a YOLO-format Road Vehicle Images Dataset;
 - run YOLOv8 detection plus ByteTrack multi-object tracking on `traffic.mp4`;
-- export an annotated video, per-frame bounding boxes with tracking IDs, sample frames, and summary statistics.
+- export an annotated video(tracked.mp4), per-frame bounding boxes with tracking IDs, sample frames, and summary statistics.
 
 ## Environment
 
